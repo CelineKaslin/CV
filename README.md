@@ -1,14 +1,15 @@
 # Celine Kaslin #
 
-I am a curious, dynamic and hard-working person, always passionate about learning new skills.
-I have start to learn coding on my own through online courses, starting by web development with HTML and CSS.
+I am a curious, dynamic and hard-working person, always passionate about learning new skills.<br/>
+I have start to learn coding on my own through online courses, starting by web development with HTML and CSS.<br/>
 Afterwards the company I was working for in a sales - customer service role saw my potential and financed some more online courses about Python. Proving my motivation, abilities and passion for it, they offer me to join the platform team and gave me the amazing opportunity of my life to be trained to software development in a coding bootcamp.
 
-I have always been interested to understand how things are working and interlinked to each other. I've started by trying to understand the humans thought by doing a MA in Philosophy and then by being graduated and working as a nurse in the complex area of mental health during 3 years.
-I reached a point where I realized that the world and environment we are living in, have a bigger impact than we imagine on our behaviours and is what made and continue to make the changes for the future of the humanity.
-I thought about our actual world and all this technology surrounding us and making our world going and progressing so fast. Those parameters in our life that we do not even notice but which are impacting so much on us, and on the future generations coming.
-And from that point I decided that I wanted to understand how what is making our day to day life is working and to be part of it by being able to bring some contribution to it.
-I discovered myself a passion in coding, because it ticks so much boxes of my personality and what I love to do.
+I have always been interested to understand how things are working and interlinked to each other. I've started by trying to understand the humans thought by doing a MA in Philosophy and then by being graduated and working as a nurse in the complex area of mental health during 3 years.<br/>
+I reached a point where I realized that the world and environment we are living in, have a bigger impact than we imagine on our behaviours and is what made and continue to make the changes for the future of the humanity.<br/>
+I thought about our actual world and all this technology surrounding us and making our world going and progressing so fast. Those parameters in our life that we do not even notice but which are impacting so much on us, and on the future generations coming.<br/>
+
+And from that point I decided that I wanted to understand how what is making our day to day life is working and to be part of it by being able to bring some contribution to it.<br/>
+I discovered myself a passion in coding, because it ticks so much boxes of my personality and what I love to do.<br/>
 I realised that going more than learning code for myself, but working as a developer will bring me the happiness to love what I am doing during the third of my life time, and will offer me to :
 
 - Be continuously intellectually stimulated and challenged
@@ -17,17 +18,17 @@ I realised that going more than learning code for myself, but working as a devel
 - Regular learning process
 - Be part of the technical evolution of the world
 
-I am looking to work preferably as a back-end developer as I prefer the logic and organised part of it, but I am open to work in front-end if a great opportunity is showing up. 
-I would love to progress in a supportive, dynamic environment with an "always growing" and improving culture company, where I'll be able to bring my technical skills but also my positive and "sharing" solutions attitude and to increase my competences including to grow by a constant learning process.
+I am looking to work preferably as a back-end developer as I prefer the logic and organised part of it, but I am open to work in front-end if a great opportunity is showing up.<br/>
+I would love to progress in a supportive, dynamic environment with an "always growing" and improving culture company, where I'll be able to bring my technical skills but also my positive and "sharing" solutions attitude and to increase my competences including to grow by a constant learning process.<br/>
 
 ## Skills ##
 
 **Coding skills**
 
-I have learned the basic of Python and I am able to solve basics challenges in this programming language.
-For Ruby programming language, I am more skilled and able to solve some more complex problems.
-I am in the learning process of TDD using spec.
-I am using Sublime text and Atom text editor to code. I have started to work with Visual studio in my previous company, but for now I still less comfortable with this one than the 2 others to work with. I really like that Atom is directly linked to Github and that I can see which of my files are in staging area, as most of my last commit.  
+I have learned the basic of Python and I am able to solve basics challenges in this programming language.<br/>
+For Ruby programming language, I am more skilled and able to solve some more complex problems.<br/>
+I am in the learning process of TDD using spec.<br/>
+I am using Sublime text and Atom text editor to code. I have started to work with Visual studio in my previous company, but for now I still less comfortable with this one than the 2 others to work with. I really like that Atom is directly linked to Github and that I can see which of my files are in staging area, as most of my last commit.<br/>
 As all developer I am using Github to show my works. All I did is on Github or on is way to be. So do not hesitate to check it : https://github.com/CelineKaslin
 
 
@@ -45,21 +46,21 @@ When I joined my previous role, I have to familiarise with the software we were 
 
 I have always worked with a team, and I have always be the one trying to make all the person understand what was going on.
 
-For example, when I was nurse and that we have an issue with some lack of material to work, I was the one going to the hierarchy  to speak about what we were missing and to explain why we needed those specifics things. I was then going back to the team to let them know what was the point of view about  it of our superior and which solution they were trying to give.
-It was the same if it has a conflict between 2 different team working on different hours or, a recurrent issue with a patient, I was always trying to establish the communication between everyone and to clarify all the point of view, to be able to reach a point where everyone get the point of the other to get to an agreement and to fix the problem. 
+For example, when I was nurse and that we have an issue with some lack of material to work, I was the one going to the hierarchy  to speak about what we were missing and to explain why we needed those specifics things. I was then going back to the team to let them know what was the point of view about  it of our superior and which solution they were trying to give.<br/>
+It was the same if it has a conflict between 2 different team working on different hours or, a recurrent issue with a patient, I was always trying to establish the communication between everyone and to clarify all the point of view, to be able to reach a point where everyone get the point of the other to get to an agreement and to fix the problem.<br/>
 I always communicated with my colleague as well, about sharing the best practise, comparing what we were doing and trying to figure out what was the best. 
 
-I have liked to be the communication link between different team.
+I have liked to be the communication link between different team.<br/>
 I guess that when you work as a nurse and then customer service, you focus on listen, understand, and bring solutions to people and you develop solid communication skills.
 
 **Organisation**
 
 I have always been organised in my personal life and even more in my work life. I like to have a "task program" in my head in how to structure my working day.
 
-In my previous position as an international booking consultant, I was helping students to find an accommodation for their year of study. I have started in this role in July 2017 , so summer, which is the peak season. It means that we had to deal with a huge amount of phone call and request, and had at the same time to be able to contact the properties to satisfy the request of the students and make them book.
+In my previous position as an international booking consultant, I was helping students to find an accommodation for their year of study. I have started in this role in July 2017 , so summer, which is the peak season. It means that we had to deal with a huge amount of phone call and request, and had at the same time to be able to contact the properties to satisfy the request of the students and make them book.<br/>
 This part of the year is the busiest one and you need to be well organised if you want to be able to treat and get in touch with all the opportunities that you have in your pipeline every day(around 120 per day).
 
-My contract in the company was non permanent, and I was supposed to work just for the peak season, but at the end of my contract, one of the reason they explained to me that they kept me as permanent was that I am very organised.
+My contract in the company was non permanent, and I was supposed to work just for the peak season, but at the end of my contract, one of the reason they explained to me that they kept me as permanent was that I am very organised.<br/>
 They pointed that I managed to start and handle it in the hardest period of the year because they noticed that I was faster than other to work because my work organisation was really good.
 
 
@@ -79,7 +80,7 @@ Nurse school - Graduated as a general nurse (Dissertation made about *the use of
 
 **University of Aix-Marseille (2006-2010 - Aix-en-Provence,France)**
 
-BA in general Philosophy
+BA in general Philosophy<br/>
 MA in Ancien Philosophy (Ancien Greek Philosophy oriented. Dissertation made on *The Symposium* from Plato)
 
 ## what I achieved (other than code project) ##
