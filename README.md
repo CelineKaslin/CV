@@ -42,7 +42,7 @@ I have always been able to learn on my own in my life. I have learned guitar lik
 When I joined my previous role, I have to familiarise with the software we were working with which is Sales force. My manager assure me that I caught really quickly how it was working and how to use it. He explained to me that they changed software 3 months ago and that some persons in the team where still strangling in how to use it and that he was impressed by my aptitude to learn how to use it, as all the process of the role really quickly.
 
 
-**Communication focus**
+**Team worker - Communication focus**
 
 I have always worked with a team, and I have always be the one trying to make all the person understand what was going on.
 
@@ -70,9 +70,10 @@ They pointed that I managed to start and handle it in the hardest period of the 
 
 An intense 16 weeks software developer bootcamp. Focus on :
 
-- TDD
-- Ruby
-- Javascript
+- OOP, TDD, MVC, DDD
+- Ruby, Rails, Javascript
+- Agile/XP
+- Rspec, Jasmine
 
 **IFSI La Capelette (2010-2013 - Marseille,France)**
 
@@ -82,6 +83,14 @@ Nurse school - Graduated as a general nurse (Dissertation made about *the use of
 
 BA in general Philosophy<br/>
 MA in Ancien Philosophy (Ancien Greek Philosophy oriented. Dissertation made on *The Symposium* from Plato)
+
+## Other training ##
+
+All have been made in 2018 :
+
+- *Learn Ruby* on www.codeacademy.com
+- *Learn Python Programming Masterclass* on www.udemy.com
+- *Python pour debutants : Le guide complet* on www.udemy.com
 
 ## what I achieved (other than code project) ##
 
