@@ -27,9 +27,9 @@ I would love to progress in a supportive, dynamic environment with an "always gr
 
 I have learned the basic of Python and I am able to solve basics challenges in this programming language.<br/>
 For Ruby programming language, I am more skilled and able to solve some more complex problems.<br/>
-I am in the learning process of TDD using spec.<br/>
+I am able to write Tests for my code and the use of TDD principles.<br/>
 I am using Sublime text and Atom text editor to code. I have started to work with Visual studio in my previous company, but for now I still less comfortable with this one than the 2 others to work with. I really like that Atom is directly linked to Github and that I can see which of my files are in staging area, as most of my last commit.<br/>
-As all developer I am using Github to show my works. All I did is on Github or on is way to be. So do not hesitate to check it : https://github.com/CelineKaslin
+As all developer I am using Github to show my work. All I did is on Github or on his way to be. So do not hesitate to check it : https://github.com/CelineKaslin
 
 
 **Fast and independent learner**
@@ -119,7 +119,7 @@ Contemporary novel about an almost depressed lady in her fifties, for who's life
 ## Personal interests ##
 
 - Full of imagination I love to write all kind of stories, and to read almost all kind of books.
-- I relax by putting colours in some "adult" color-book.
+- I relax by putting colours in some color-book.
 - I am (sadly or not) one of this "old" Disney lover generation.
 - Music is a huge part of my life always in background.
 - I am a bit nerd and a huge fan and player of medieval fantastic oriented role game playing (LARP). So you can find me in the forest during some weekends dressed as a pirate, Viking, queen, goblin or whatever I have decided to play...
