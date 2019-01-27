@@ -32,7 +32,7 @@ I am able to write Tests for my code. I am using *Rspec* and *Capybara* testing 
 For all the code I am building, I am using the TDD principles.<br/>
 I am using Sublime text and Atom text editor to code. I have started to work with Visual studio in my previous company, but for now I still less comfortable with this one than the 2 others to work with. I really like that Atom is directly linked to Github and that I can see which of my files are in staging area, as most of my last commit.<br/>
 As all developer I am using Github to show my work, and I am confident with the commands to use it.<br/>
-All I did is on Github or on it way to be. So do not hesitate to check it : https://github.com/CelineKaslin
+All I did is on Github or on it way to be. So do not hesitate to check it.
 
 
 **Fast and independent learner**
@@ -129,3 +129,12 @@ Contemporary novel about an almost depressed lady in her fifties, for who's life
 - Music is a huge part of my life and always in background.
 - Going on meetup programming event, because I love to share and learn new things in programming (language, frameworks, technologies ... ).
 - I am a bit nerd and a huge fan and player of medieval fantastic oriented role game playing (LARP). So you can find me in the forest during some weekends dressed as a pirate, Viking, queen, goblin or whatever I have decided to play...
+
+## Find out more about me ##
+
+[My Github](https://github.com/CelineKaslin)
+[My Linkedin](https://www.linkedin.com/in/celine-k-74a967143/)
+
+## Contact ##
+
+[Email me](mailto:celine.kaslin@gmail.com)
