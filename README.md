@@ -132,7 +132,7 @@ Contemporary novel about an almost depressed lady in her fifties, for who's life
 
 ## Find out more about me ##
 
-[My Github](https://github.com/CelineKaslin)
+[My Github](https://github.com/CelineKaslin)<br/>
 [My Linkedin](https://www.linkedin.com/in/celine-k-74a967143/)
 
 ## Contact ##
