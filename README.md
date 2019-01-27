@@ -1,4 +1,4 @@
-# Celine Kaslin #
+# Celine Kaslin :computer:
 
 I am a curious, dynamic and hard-working person, always passionate about learning new skills.<br/>
 I have start to learn coding on my own through online courses, starting by web development with HTML and CSS.<br/>
