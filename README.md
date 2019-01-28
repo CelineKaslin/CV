@@ -5,7 +5,7 @@ I have start to learn coding on my own through online courses, starting by web d
 Afterwards the company I was working for in a sales - customer service role saw my potential and financed some more online courses about Python. Proving my motivation, abilities and passion for it, they offer me to join the platform team and gave me the amazing opportunity of my life to be trained to software development in a coding bootcamp.
 
 I have always been interested to understand how things are working and interlinked to each other. I've started by trying to understand the humans thought by doing a MA in Philosophy and then by being graduated and working as a nurse in the complex area of mental health during 3 years.<br/>
-I reached a point where I realized that the world and environment we are living in, have a bigger impact than we imagine on our behaviours and is what made and continue to make the changes for the future of the humanity.<br/>
+I reached a point where I realised that the world and environment we are living in, have a bigger impact than we imagine on our behaviours and is what made and continue to make the changes for the future of the humanity.<br/>
 I thought about our actual world and all this technology surrounding us and making our world going and progressing so fast. Those parameters in our life that we do not even notice but which are impacting so much on us, and on the future generations coming.<br/>
 
 And from that point I decided that I wanted to understand how what is making our day to day life is working and to be part of it by being able to bring some contribution to it.<br/>
@@ -25,19 +25,17 @@ I would love to progress in a supportive, dynamic environment with an "always gr
 
 **Coding skills**
 
-I have learned the basic of Python and I am able to solve basics challenges in this programming language.<br/>
-I am having strong skills in Ruby programming language. I have built multiple software challenge, and web app using it and *Sinatra*.<br/>
-I am also able to program basic web page in Javascript.<br/>
+I have learned the basics of Python and I am able to solve basic challenges.<br/>
+I have strong skills in Ruby. I have built multiple projects, and web apps which incorporate *Sinatra*.<br/>
+I am also able to program in Javascript to a good level.<br/>
 I am able to write Tests for my code. I am using *Rspec* and *Capybara* testing frameworks for Ruby, and *Jasmine* for Javascript.<br/>
-For all the code I am building, I am using the TDD principles.<br/>
-I am using Sublime text and Atom text editor to code. I have started to work with Visual studio in my previous company, but for now I still less comfortable with this one than the 2 others to work with. I really like that Atom is directly linked to Github and that I can see which of my files are in staging area, as most of my last commit.<br/>
-As all developer I am using Github to show my work, and I am confident with the commands to use it.<br/>
-All I did is on Github or on it way to be. So do not hesitate to check it.
-
+For all the projects I follow the strict principles of TDD.<br/>
+I am using Github to show the flow of my work, and I am confident with the *git* commands.<br/>
 
 **Fast and independent learner**
 
-I have started to learn code on my own time, working on it during the evening after my full time job and during weekends. In few months I've started to build some coding skills in Python and Ruby, and I developed a better capacity in approaching, decomposing and solving problems.
+I have started to learn code on my own time, working on it during the evening after my full time job and during weekends.<br/>
+I also picked up JavaScript in a week and developed a better capacity in approaching, decomposing and solving problems.
 
 I am able to rally and use all the resources needed to learn faster, which include : research on google, watching tutorial on you tube, read appropriates books, ask to developers I know some help when I am really stuck.
 I have always been able to learn on my own in my life. I have learned guitar like that when I was teenager (that I sadly forgot because of a lack of practise).
@@ -47,18 +45,18 @@ When I joined my previous role, I have to familiarise with the software we were 
 
 **Team worker - Communication focus**
 
-I have always worked with a team, and I have always been the one trying to make all the person understand what was going on.
+I have always worked in a team and I have been the mediator between different teams.
 
 For example, when I was nurse and that we had an issue with some lack of material to work, I was the one going to the hierarchy to speak about what we were missing and to explain why we needed those specifics things. I was then going back to the team to let them know what was the point of view of our superior about it and which solution they will give.<br/>
 It was the same if it has a conflict between 2 different teams working on different hours or, a recurrent issue with a patient. I was always trying to establish the communication between everyone and to clarify all the point of view, to be able to reach a point where everyone get the point of the other to get to an agreement and to fix the problem.<br/>
 I always communicate with my colleague as well, about sharing the best practise, comparing what we were doing and trying to figure out what was the best.
 
-I have liked to be the communication link between different team.<br/>
-I guess that when you work as a nurse and then customer service, you focus on listen, understand, and bring solutions to people and you develop solid communication skills.
+I have liked to be the mediator between different team.<br/>
+When working as a nurse, my main focus was to listen, understand, and bring solutions to people which allowed me to develop solid communication skills.
 
 **Organisation**
 
-I have always been organised in my personal life and even more in my work life. I like to have a "task program" in my head in how to structure my working day<br/>
+I have always been organised in my personal and work life. I like to prepare a list of tasks at the beginning of each morning to structure my working day.<br/>
 Also when I have to approach a new software to built, I am organised in my process to decompose the user request.<br/>
 I am writing a user story if non is given, extracting the main point, and diagraming how I will build the project, which allows me to elaborate a Minimum Viable Project to follow.
 
@@ -127,7 +125,7 @@ Contemporary novel about an almost depressed lady in her fifties, for who's life
 - I relax by putting colours in some color-book.
 - I am (sadly or not) one of this "old" Disney lover generation.
 - Music is a huge part of my life and always in background.
-- Going on meetup programming event, because I love to share and learn new things in programming (language, frameworks, technologies ... ).
+- Going to meetup programming event, because I love to share and learn new things in programming (language, frameworks, technologies ... ).
 - I am a bit nerd and a huge fan and player of medieval fantastic oriented role game playing (LARP). So you can find me in the forest during some weekends dressed as a pirate, Viking, queen, goblin or whatever I have decided to play...
 
 ## Find out more about me ##
