@@ -1,35 +1,33 @@
 # Celine Kaslin :computer:
 
-I am a curious, dynamic and hard-working person, always passionate about learning new skills.<br/>
-I have start to learn coding on my own through online courses, starting by web development with HTML and CSS.<br/>
-Afterwards the company I was working for in a sales - customer service role saw my potential and financed some more online courses about Python. Proving my motivation, abilities and passion for it, they offer me to join the platform team and gave me the amazing opportunity of my life to be trained to software development in a coding bootcamp.
+I am a curious and hard-working person, always passionate about learning new skills.<br/>
+I have start to learn coding on my own through online courses.<br/>
+Afterwards the company I was working for in a sales - customer service role saw my potential and financed more online courses about Python. Proving my motivation, abilities and passion for it, they offer me to join the platform team and gave me the amazing opportunity of my life to be trained to be a software developer at Makers Academy.
 
 I have always been interested to understand how things are working and interlinked to each other. I've started by trying to understand the humans thought by doing a MA in Philosophy and then by being graduated and working as a nurse in the complex area of mental health during 3 years.<br/>
 I reached a point where I realised that the world and environment we are living in, have a bigger impact than we imagine on our behaviours and is what made and continue to make the changes for the future of the humanity.<br/>
 I thought about our actual world and all this technology surrounding us and making our world going and progressing so fast. Those parameters in our life that we do not even notice but which are impacting so much on us, and on the future generations coming.<br/>
 
-And from that point I decided that I wanted to understand how what is making our day to day life is working and to be part of it by being able to bring some contribution to it.<br/>
-I discovered myself a passion in coding, because it ticks so much boxes of my personality and what I love to do.<br/>
-I realised that going more than learning code for myself, but working as a developer will bring me the happiness to love what I am doing during the third of my life time, and will offer me to :
+And from that point I have decided that I wanted to understand how what is making our day to day life is working and to be part of it by being able to bring some contribution to it.<br/>
+I discovered myself a passion in coding, because it ticks so much boxes of my personality and what I love to do:<br/>
 
 - Be continuously intellectually stimulated and challenged
 - Have some space for creativity
-- Exchange idea with team members and compare ways to think and to solve problems
+- Exchange ideas with team members and compare ways to think and to solve problems
 - Regular learning process
 - Be part of the technical evolution of the world
 
-I am open to work in both back-end and front-end.<br/>
-I would love to progress in a supportive, dynamic environment with an "always growing" and improving culture company, where I'll be able to bring my technical skills but also my positive and "sharing" solutions attitude and to increase my competences including to grow by a constant learning process.<br/>
+I am open to work in any area with any technology, as my main goal is to learn always as much as I can.<br/>
+I would love to progress in a supportive, dynamic environment with an "always growing" and improving culture company, where I'll be able to bring my technical skills but also my positive attitude and to increase my competences by a constant learning process.<br/>
 
 ## Skills ##
 
 **Coding skills**
 
-I have learned the basics of Python and I am able to solve basic challenges.<br/>
 I have strong skills in Ruby. I have built multiple projects, and web apps which incorporate *Sinatra*.<br/>
+I have learned the basics of Python and flask.<br/>
 I am also able to program in Javascript to a good level.<br/>
-I am able to write Tests for my code. I am using *Rspec* and *Capybara* testing frameworks for Ruby, and *Jasmine* for Javascript.<br/>
-For all the projects I follow the strict principles of TDD.<br/>
+I am following the strict principle of TDD for my code. I am using *Rspec* and *Capybara* testing frameworks for Ruby, *Pytest* for Python and *Jasmine* for Javascript.<br/>
 I am using Github to show the flow of my work, and I am confident with the *git* commands.<br/>
 
 **Fast and independent learner**
@@ -38,43 +36,43 @@ I have started to learn code on my own time, working on it during the evening af
 I also picked up JavaScript in a week and developed a better capacity in approaching, decomposing and solving problems.
 
 I am able to rally and use all the resources needed to learn faster, which include : research on google, watching tutorial on you tube, read appropriates books, ask to developers I know some help when I am really stuck.
-I have always been able to learn on my own in my life. I have learned guitar like that when I was teenager (that I sadly forgot because of a lack of practise).
+I have always been able to learn on my own in my life.
 
-When I joined my previous role, I have to familiarise with the software we were working with which is Sales force. My manager assure me that I caught really quickly how it was working and how to use it. He explained to me that they changed software 3 months ago and that some persons in the team where still struggling in how to use it and that he was impressed by my aptitude to learn how to use it (as all the process of the role) really quickly.
+When I joined my previous role, I have to familiarise with the software we were working with which is Sales force. My manager assure me that I caught really quickly how it was working and how to use it. They changed software 3 months ago and and some persons in the team where still struggling in how to use it.
 
 
 **Team worker - Communication focus**
 
-I have always worked in a team and I have been the mediator between different teams.
+I have always worked in a team and I have often been the mediator.
+For example, when I was nurse and that we had an issue , I was the one going to the hierarchy to speak about it. I was then going back to the team to let them know what went out from the discussion.<br/>
+I always liked to communicate with my colleagues and share about the best practises.
+When working as a nurse, my main focus was to listen, understand, and bring solutions to people, which allowed me to develop solid communication skills.
 
-For example, when I was nurse and that we had an issue with some lack of material to work, I was the one going to the hierarchy to speak about what we were missing and to explain why we needed those specifics things. I was then going back to the team to let them know what was the point of view of our superior about it and which solution they will give.<br/>
-It was the same if it has a conflict between 2 different teams working on different hours or, a recurrent issue with a patient. I was always trying to establish the communication between everyone and to clarify all the point of view, to be able to reach a point where everyone get the point of the other to get to an agreement and to fix the problem.<br/>
-I always communicate with my colleague as well, about sharing the best practise, comparing what we were doing and trying to figure out what was the best.
-
-I have liked to be the mediator between different team.<br/>
-When working as a nurse, my main focus was to listen, understand, and bring solutions to people which allowed me to develop solid communication skills.
+I used those skills during all my team project at makers academy.<br/>
+At the end of each project the team members were always grateful to me for having focus and push the team so much onto communication, using the Agile processes.
 
 **Organisation**
 
 I have always been organised in my personal and work life. I like to prepare a list of tasks at the beginning of each morning to structure my working day.<br/>
-Also when I have to approach a new software to built, I am organised in my process to decompose the user request.<br/>
-I am writing a user story if non is given, extracting the main point, and diagraming how I will build the project, which allows me to elaborate a Minimum Viable Project to follow.
+Also when I have to approach a new software to build, I am organised in my process to decompose the user request.<br/>
+I am writing a user story if none is given, extracting the main points, and diagraming how I will build the project.<br/>
+This allows me to elaborate a Minimum Viable Project to follow.
 
-In my previous position as an international booking consultant, I was helping students to find an accommodation for their year of study. I have started in this role in July 2017 , so summer, which is the peak season. It means that we had to deal with a huge amount of phone call and request, and had at the same time to be able to contact the properties to satisfy the request of the students and make them book.<br/>
-This part of the year is the busiest one and you need to be well organised if you want to be able to treat and get in touch with all the students assigned to you every day(around 120 per day).
+In my previous position as an international booking consultant, I was helping students to find an accommodation for their year of study. I have started in this role during the summer 2017 , which is the peak season. It means that we had to deal with a huge amount of phone call and request.<br/>
+This part of the year is the busiest one and requested to be well organised to be able to treat and get in touch with all the students assigned to you every day(around 120 per day).
 
-My contract in the company was non permanent, and I was supposed to work just for the peak season, but at the end of my contract, one of the reason why they kept me as permanent was that I am very organised.<br/>
-They pointed that I managed to start and handle it in the hardest period of the year, noticing that I was faster than other to work because of good my work organisation.
+My contract in the company was non permanent, and I was supposed to work just for the peak season, but at the end of my contract, one of the reason why they kept me as permanent was because I am very organised.<br/>
+They pointed that I managed to start and handle the hardest period of the year, noticing that I was faster than other to work because of good my work organisation.
 
 
 ## Education ##
 
-**Makers Academy (2018-2019 - London,UK)**
+**Makers Academy (29th of October 2018 - 1st of March 2019 - London,UK)**
 
 An intense 16 weeks software development bootcamp. Focusing on :
 
 - OOP, TDD, MVC, DDD
-- Ruby, Rails, Javascript
+- Ruby, Rails, Sinatra, Javascript
 - Agile/XP
 - Rspec, Jasmine, Capybara
 
@@ -91,7 +89,6 @@ MA in Ancien Philosophy (Ancien Greek Philosophy oriented. Dissertation made on 
 
 All have been made in 2018 :
 
-- *Learn Ruby* on www.codeacademy.com
 - *Learn Python Programming Masterclass* on www.udemy.com
 - *Python pour debutants : Le guide complet* on www.udemy.com
 
@@ -103,9 +100,9 @@ Contemporary novel about an almost depressed lady in her fifties, for who's life
 
 ## Experience ##
 
-**Student.com** (October 2018 - December 2018) Junior Platform developer
+**Student.com** (1st of October 2018 - 31st of December 2018) Junior Platform developer
 
-**Student.com** (July 2017 - September 2018) International Booking Consultant
+**Student.com** (5th of July 2017 - 31st of September 2018) International Booking Consultant
 
 **Naya** (6 month in 2017, UK) Receptionist
 
@@ -121,12 +118,12 @@ Contemporary novel about an almost depressed lady in her fifties, for who's life
 
 ## Personal interests ##
 
-- Full of imagination I love to write all kind of stories, and to read almost all kind of books.
+- Full of imagination I love to write, and to read almost all kind of books.
 - I relax by putting colours in some color-book.
 - I am (sadly or not) one of this "old" Disney lover generation.
 - Music is a huge part of my life and always in background.
-- Going to meetup programming event, because I love to share and learn new things in programming (language, frameworks, technologies ... ).
-- I am a bit nerd and a huge fan and player of medieval fantastic oriented role game playing (LARP). So you can find me in the forest during some weekends dressed as a pirate, Viking, queen, goblin or whatever I have decided to play...
+- Going to meetup programming event, because I love to share and learn new things in tech (language, frameworks, technologies ... ).
+- I am a huge fan and player of medieval fantastic oriented role game playing (LARP). So you can find me in the forest during some weekends dressed as a pirate, Viking, queen, goblin or whatever I have decided to play...
 
 ## Find out more about me ##
 
