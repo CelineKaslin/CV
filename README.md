@@ -20,6 +20,17 @@ I discovered myself a passion in coding, because it ticks so much boxes of my pe
 I am open to work in any area with any technology, as my main goal is to learn always as much as I can.<br/>
 I would love to progress in a supportive, dynamic environment with an "always growing" and improving culture company, where I'll be able to bring my technical skills but also my positive attitude and to increase my competences by a constant learning process.<br/>
 
+## Projects ##
+
+Project | Time to build it | Tech stack
+------------- | ------------- | -------------
+[Rock Paper Scissors Challenge](https://github.com/CelineKaslin/rps-challenge/blob/master/README.md) | 2 days | Ruby, Sinatra, Rspec, Capybara, Rubocop, Html, Css
+[Airport Challenge](https://github.com/CelineKaslin/airport_challenge) | 2 days | Ruby, Rspec, Rubocop
+[Chitter Challenge](https://github.com/CelineKaslin/chitter-challenge) | 2 days | Ruby, Sinatra, Rspec, Capybara, Rubocop, Html, Css, postgresql, Datamapper
+[Rock Paper Scissors Javascript](https://github.com/CelineKaslin/Rps_Js) | 2 days | Javascript, Jasmine, Html
+[Acebook Team project](https://github.com/CelineKaslin/acebook-Justice_Moo) | 10 days | Ruby on Rails, Rspec, Capybara, Rubocop, Html, Css, Active Record, Simple Cov, Travis
+[Bank Tech test](https://github.com/CelineKaslin/Bank_tech_test) | 3.5 days | Ruby, Rspec, Rubocop, Simple Cov
+
 ## Skills ##
 
 **Coding skills**
