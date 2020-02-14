@@ -40,6 +40,8 @@ I have learned the basics of Python and flask.<br/>
 I am also able to program in Javascript to a good level.<br/>
 I am following the strict principle of TDD for my code. I am using *Rspec* and *Capybara* testing frameworks for Ruby, *Pytest* for Python and *Jasmine* for Javascript.<br/>
 I am using Github to show the flow of my work, and I am confident with the *git* commands.<br/>
+I am using PHP and I working on Moodle platform since a year.<br/>
+Daily basis work with Data Base and SQL query; good knowledge of Eloquent relationship.<br/>
 
 **Fast and independent learner**
 
@@ -82,7 +84,7 @@ They pointed that I managed to start and handle the hardest period of the year, 
 
 An intense 16 weeks software development bootcamp. Focusing on :
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC
 - Ruby, Rails, Sinatra, Javascript
 - Agile/XP
 - Rspec, Jasmine, Capybara
@@ -98,8 +100,7 @@ MA in Ancien Philosophy (Ancien Greek Philosophy oriented. Dissertation made on 
 
 ## Other training ##
 
-All have been made in 2018 :
-
+- *Web Accessibility* on www.udemy.com
 - *Learn Python Programming Masterclass* on www.udemy.com
 - *Python pour debutants : Le guide complet* on www.udemy.com
 
@@ -111,11 +112,13 @@ Contemporary novel about an almost depressed lady in her fifties, for who's life
 
 ## Experience ##
 
-**Student.com** (1st of October 2018 - 31st of December 2018) Junior Platform developer
+**Avado Learning** (11th March 2018 - Present) Junior Learning Platform Developer
 
-**Student.com** (5th of July 2017 - 31st of September 2018) International Booking Consultant
+**Student.com** (1st October 2018 - 31st December 2018) Junior Platform Developer
 
-**Naya** (6 month in 2017, UK) Receptionist
+**Student.com** (5th July 2017 - 31st September 2018) International Booking Consultant
+
+**Naya** (fisrt half of 2017, UK) Receptionist
 
 **Starbucks coffee** (end of 2016, UK) Barista
 
@@ -130,10 +133,11 @@ Contemporary novel about an almost depressed lady in her fifties, for who's life
 ## Personal interests ##
 
 - Full of imagination I love to write, and to read almost all kind of books.
-- I relax by putting colours in some color-book.
+- I relax by drawing and painting.
 - I am (sadly or not) one of this "old" Disney lover generation.
-- Music is a huge part of my life and always in background.
+- Music is a huge part of my life and always in my background + I am currently learning piano on my own.
 - Going to meetup programming event, because I love to share and learn new things in tech (language, frameworks, technologies ... ).
+- Movie geek so I am minimum once a week going to a dark cinema room.
 - I am a huge fan and player of medieval fantastic oriented role game playing (LARP). So you can find me in the forest during some weekends dressed as a pirate, Viking, queen, goblin or whatever I have decided to play...
 
 ## Find out more about me ##
